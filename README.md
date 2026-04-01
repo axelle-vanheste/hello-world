@@ -1,2 +1,2 @@
-# hello-world
+# my-profile
 My first repository on GitHub.
